@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gBYUjygG7i6OiuTeqBIZcptQxyYIeR46uvBSd+485fU=",
+  "Source": "SqsSender",
+  "BasePath": "_content/SqsSender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

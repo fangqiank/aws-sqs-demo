@@ -1,0 +1,12 @@
+D:\dotnetcore\AwsSqs\ApiContracts\bin\Debug\net7.0\ApiContracts.deps.json
+D:\dotnetcore\AwsSqs\ApiContracts\bin\Debug\net7.0\ApiContracts.dll
+D:\dotnetcore\AwsSqs\ApiContracts\bin\Debug\net7.0\ApiContracts.pdb
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.csproj.AssemblyReference.cache
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.AssemblyInfoInputs.cache
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.AssemblyInfo.cs
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.csproj.CoreCompileInputs.cache
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.dll
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\refint\ApiContracts.dll
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ApiContracts.pdb
+D:\dotnetcore\AwsSqs\ApiContracts\obj\Debug\net7.0\ref\ApiContracts.dll

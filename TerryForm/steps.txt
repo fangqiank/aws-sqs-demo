@@ -1,0 +1,6 @@
+- terraform init
+- terraform plan
+	the name of the queue that needs to be created
+
+	Enter a value: mercedes_notification
+- terraform apply

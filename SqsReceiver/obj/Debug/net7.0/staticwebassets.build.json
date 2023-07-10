@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TtGVdJSLx8kfVqXmIbsR2lYeSc8beCXHPFtHwaP0DcU=",
+  "Source": "SqsReceiver",
+  "BasePath": "_content/SqsReceiver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

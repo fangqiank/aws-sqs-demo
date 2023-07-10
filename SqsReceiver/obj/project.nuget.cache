@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "73q+/k46F57q4NuKPm+5EhCSODsJ8A6qFO+Qq1s5bCDYq0GzSpb5iyY5N4WdDKwRhRJ3ivBOBJsN+PzsSs5AkQ==",
+  "success": true,
+  "projectFilePath": "d:\\dotnetcore\\AwsSqs\\SqsReceiver\\SqsReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fangq\\.nuget\\packages\\awssdk.core\\3.7.108.1\\awssdk.core.3.7.108.1.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\awssdk.sqs\\3.7.103.10\\awssdk.sqs.3.7.103.10.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\fangq\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
